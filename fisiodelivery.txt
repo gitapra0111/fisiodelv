@@ -2,3 +2,7 @@ fisiodelivery
 - Project planning untuk pengembangan sistem
 - Saya ingin membuat sebuah platform penyedia fisio terapi secara delivery
 - Membuat awalan dari sebuah website
+- menyiapkan beberapa tools
+- kode yang di butuhkan
+
+Finish akhir saya dapat di kelola di seluruh indonesia dan ditargetkan di kota kota besar terlebih dahulu serta di buatkan aplikasi
